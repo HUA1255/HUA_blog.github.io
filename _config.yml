@@ -68,7 +68,7 @@ rss: /atom.xml ## RSS address.
 imglogo:
   enable: true             ## display image logo true/false.
   src: img/icon_tringe.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.
-apple_icon: img/icon_blog.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
+apple_icon: <a href="https://www.freeiconspng.com/img/40811" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/rocket-png-22.png" width="350" alt="Free Download Rocket Png Images" /></a> ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
 author_img: img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
 banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 
@@ -109,7 +109,7 @@ toc:
 
 #### Links
 links:
-  Bilibili: https://www.bilibili.com/
+  BILIBILI: https://www.bilibili.com/
   中国大学MOOC: https://www.icourse163.org/
   一个友善的网站:
 
